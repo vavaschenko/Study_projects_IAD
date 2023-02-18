@@ -18,3 +18,5 @@ HW7 - Классификация изображений
 HW8 - Трансформеры
 
 HW9 - Generative Adversarial Networks
+
+HW10 - Sound classification
