@@ -20,3 +20,5 @@ HW8 - Трансформеры
 HW9 - Generative Adversarial Networks
 
 HW10 - Sound classification
+
+HW11 - Рекомендательные системы
